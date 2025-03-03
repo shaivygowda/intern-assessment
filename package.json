@@ -1,0 +1,25 @@
+{
+  "name": "nextjs-typescript-project",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "lucide-react": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "latest",
+    "zustand": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "22.13.8",
+    "@types/react": "19.0.10",
+    "autoprefixer": "latest",
+    "postcss": "latest",
+    "typescript": "latest"
+  }
+}
